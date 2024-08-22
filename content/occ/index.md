@@ -54,7 +54,7 @@ sections:
     content:
       title: Innovation Points
       subtitle: 'Novel Dataset'
-      text: <p> <img  src="occ_coord.png" align="left" /> </p>    
+      text: <p> <img  src="occ_dataset.png" align="left" /> </p>    
 
     #design:
     #  columns: '1'
