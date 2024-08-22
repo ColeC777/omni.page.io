@@ -4,33 +4,33 @@ title: Ming Li(李明)
 
 # Username (this should match the folder name)
 authors:
-  - 李明
+  - Li Ming
   
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 硕博连读(2017-)
+role: Graduated PhD
 
 # Organizations/Affiliations
 organizations:
-  - name: 个人主页
+  - name: Personal Homepage
     url: 'https://andyliming.github.io/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: 简略介绍
 
 interests:
-  - 计算机视觉
-  - 深度估计
-  - 立体匹配
-  - 深度学习
+  - CV
+  - Depth Estimation
+  - Stereo Matching
+  - Deep Learning
 
-education:
-  courses:
-    - course: 电子信息科学与技术学士
-      institution: 南京大学
-      year: 2017
+#education:
+#  courses:
+#    - course: 电子信息科学与技术学士
+#      institution: 南京大学
+#      year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -58,7 +58,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - 博士
+  - Graduated
 ---
 
-这里是个人介绍
+
