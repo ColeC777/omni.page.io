@@ -13,7 +13,7 @@ sections:
         align: center
         background:
           image:
-            filename: contact.jpg
+            filename: people.jpg
             filters:
               brightness: 0.7
           position: right
