@@ -44,7 +44,7 @@ sections:
     content:
       title: Innovation Points
       subtitle: 'Novel Workflow'
-      text: <p> <img  src="occ_workflow.png" align="left" /> The methods for view transformation mainly fall into two categories, as shown in Fig. The first involves using explicit depth estimation to elevate 2D features from images into a 3D voxel space. However, this method is difficult to reconstruct occluded regions and thus producing suboptimal results. The second category is based on transformer architecture. However, transformer-based methods rely solely on attention mechanism for perspective transformation, without any geometric prior. To address these limitations, using more accurate depth estimation results to constrain the transformer is necessary. </p>
+      text: <p> <img  src="occ_workflow.png" align="left" /> </p>
   - block: markdown
     content:
       title: 
