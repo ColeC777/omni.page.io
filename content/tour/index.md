@@ -47,7 +47,7 @@ sections:
           icon: graduation-cap
           icon_pack: fas
           text: Learn More
-          url: ../Integrated Sensing and Computing/
+          url: ../integrated/
       - title: Occupancy Network
         content: 'Omnidirectional Depth-Aided Occupancy Prediction based on Cylindrical Voxel for Autonomous Driving'
         align: right

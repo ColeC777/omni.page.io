@@ -21,7 +21,7 @@ main:
     url: occ
   - parent: Research Focus
     name: Integrated Sensing and Computing
-    url: Integrated Sensing and Computing
+    url: integrated
   - name: People
     url: people
     weight: 30
