@@ -47,8 +47,13 @@ sections:
       text: <p> <img  src="occ_workflow.png" align="left" /> </p>
   - block: markdown
     content:
-      title: 
+      title: Innovation Points
       subtitle: 'Novel Cylinder Voxel Representation'
+      text: <p> <img  src="occ_coord.png" align="left" /> </p>    
+  - block: markdown
+    content:
+      title: Innovation Points
+      subtitle: 'Novel Dataset'
       text: <p> <img  src="occ_coord.png" align="left" /> </p>    
 
     #design:
