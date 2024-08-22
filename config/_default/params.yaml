@@ -18,8 +18,8 @@ marketing:
     site_type: Organization
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'GetResearchDev'
+    description: 'A highly-customizable Hugo research group theme powered by emAI website builder.'
+    twitter: 'emAI'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -45,11 +45,11 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} emAI, Nanjing University'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
 
 # Localization
@@ -91,7 +91,7 @@ features:
       category: ''
       category_id: ''
   search:
-    provider: wowchemy
+    provider: emAI
     algolia:
       app_id: ''
       api_key: ''
