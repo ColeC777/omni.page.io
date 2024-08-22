@@ -44,11 +44,8 @@ sections:
     content:
       title: Innovation Points
       subtitle: 'Novel Workflow'
-      text: |
-      <p>    
-      <img  src="https://i-blog.csdnimg.cn/blog_migrate/348f8ce8a69c97427cf55dde66f1b4c7.png"  width="400"  align="left" />
-      文字在右边，图片在左边。文字在右边，图片在左边。文字在右边，图片在左边。文字在右边，图片在左边。文字在右边，图片在左边。
-      </p>
+      text: <p> <img  src="https://i-blog.csdnimg.cn/blog_migrate/348f8ce8a69c97427cf55dde66f1b4c7.png"  width="400"  align="left" /> aaaaaa </p>
+      
 
     #design:
     #  columns: '1'
