@@ -55,7 +55,11 @@ sections:
       title: Innovation Points
       subtitle: 'Novel Dataset'
       text: <p> <img  src="occ_dataset.png" align="left" /> </p>    
-
+  - block: markdown
+    content:
+      title: Experimental Result
+      subtitle: 'Qualitative Comparison with Classical Methods'
+      text: <p> <img  src="occ_compare.png" align="left" /> Even in less voxels, we have achieved better reconstruction results, especially at close range. </p>
     #design:
     #  columns: '1'
     #  background:
