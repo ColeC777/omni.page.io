@@ -8,14 +8,14 @@ sections:
   - block: hero
     content:
       title: |
-        Omni Perception
+        NJU-EE Autonomous Driving
         Research Group
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Omni Perception Research Group** focus on developing vision-based panoramic perception algorithms.
+        The **NJU-EE Autonomous Driving Research Group** focus on developing vision-based perception algorithms for autonomous driving.
   
   #- block: collection
   #  content:
